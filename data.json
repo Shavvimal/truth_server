@@ -1,0 +1,2638 @@
+[
+    {
+      "id": 1,
+      "truth": "Is there anything from your past that you regret?"
+    },
+    {
+      "id": 2,
+      "truth": "Do you know what your life purpose is?"
+    },
+    {
+      "id": 3,
+      "truth": "What is the happiest memory that you have?"
+    },
+    {
+      "id": 4,
+      "truth": "What is your worst fear?"
+    },
+    {
+      "id": 5,
+      "truth": "Do you want to fall in love?"
+    },
+    {
+      "id": 6,
+      "truth": "What is the most important lesson you learned in your last relationship?"
+    },
+    {
+      "id": 7,
+      "truth": "Are you more of an introvert or an extrovert?"
+    },
+    {
+      "id": 8,
+      "truth": "Is your glass half full or half empty?"
+    },
+    {
+      "id": 9,
+      "truth": "What in life are you most passionate about?"
+    },
+    {
+      "id": 10,
+      "truth": "Who or what inspires you?"
+    },
+    {
+      "id": 11,
+      "truth": "What's your greatest strength?"
+    },
+    {
+      "id": 12,
+      "truth": "How important is family to you?"
+    },
+    {
+      "id": 13,
+      "truth": "Do you believe that each of us has a soulmate?"
+    },
+    {
+      "id": 14,
+      "truth": "What is a quality that your parents tried to teach you but you feel you didn't learn?"
+    },
+    {
+      "id": 15,
+      "truth": "Do you think there is an age where people should be settling down?"
+    },
+    {
+      "id": 16,
+      "truth": "Do you believe in a higher power? If yes, have you ever prayed to them?"
+    },
+    {
+      "id": 17,
+      "truth": "What is your love language?"
+    },
+    {
+      "id": 18,
+      "truth": "What does your perfect date look like?"
+    },
+    {
+      "id": 19,
+      "truth": "What is your dream job?"
+    },
+    {
+      "id": 20,
+      "truth": "How would your friends describe you?"
+    },
+    {
+      "id": 21,
+      "truth": "What is the most important thing you look for in a partner?"
+    },
+    {
+      "id": 22,
+      "truth": "What in your life do you feel most proud of?"
+    },
+    {
+      "id": 23,
+      "truth": "Where do you see yourself in five years?"
+    },
+    {
+      "id": 24,
+      "truth": "Is there something you think a lot of parents do that negatively impacts their kid?"
+    },
+    {
+      "id": 25,
+      "truth": "What makes you smile when you're having a bad day?"
+    },
+    {
+      "id": 26,
+      "truth": "What in your life do you feel the most grateful for?"
+    },
+    {
+      "id": 27,
+      "truth": "Can you remember the last time you cried and what the reason was?"
+    },
+    {
+      "id": 28,
+      "truth": "Who in your family do you feel the closest to?"
+    },
+    {
+      "id": 29,
+      "truth": "How important is intimacy to you in your relationships?"
+    },
+    {
+      "id": 30,
+      "truth": "What keeps you up at night?"
+    },
+    {
+      "id": 31,
+      "truth": "Is self-improvement important to you?"
+    },
+    {
+      "id": 32,
+      "truth": "Do you know what your attachment type is?"
+    },
+    {
+      "id": 33,
+      "truth": "Are you looking for something serious or casual?"
+    },
+    {
+      "id": 34,
+      "truth": "Would you rather spend a night cozy at home or out at the club?"
+    },
+    {
+      "id": 35,
+      "truth": "Are you close with your parents?"
+    },
+    {
+      "id": 36,
+      "truth": "Do you have a good work-life balance?"
+    },
+    {
+      "id": 37,
+      "truth": "What's your favorite childhood memory?"
+    },
+    {
+      "id": 38,
+      "truth": "What is more important to you, love or money?"
+    },
+    {
+      "id": 39,
+      "truth": "Why did your last relationship end?"
+    },
+    {
+      "id": 40,
+      "truth": "What is your relationship like with your father?"
+    },
+    {
+      "id": 41,
+      "truth": "Are you able to fight in a loving way?"
+    },
+    {
+      "id": 42,
+      "truth": "What are some qualities that you wish you had?"
+    },
+    {
+      "id": 43,
+      "truth": "Have you ever stayed in a relationship that you knew was toxic? If yes, why?"
+    },
+    {
+      "id": 44,
+      "truth": "Are you aware of the ways that you self-sabotage?"
+    },
+    {
+      "id": 45,
+      "truth": "How important is your health to you?"
+    },
+    {
+      "id": 46,
+      "truth": "If you're having a hard day, how can I show up for you to make it better?"
+    },
+    {
+      "id": 47,
+      "truth": "If you had a big decision to make, would you talk to me or your mom first?"
+    },
+    {
+      "id": 48,
+      "truth": "Have you ever cheated on anyone?"
+    },
+    {
+      "id": 49,
+      "truth": "Who was your role model growing up?"
+    },
+    {
+      "id": 50,
+      "truth": "Do you know what your attachment type is? (If you don't know yours, it's worth looking into)"
+    },
+    {
+      "id": 51,
+      "truth": "What's the best way to cheer you up on a bad day?"
+    },
+    {
+      "id": 52,
+      "truth": "Do you think it's possible for men and women to just be friends?"
+    },
+    {
+      "id": 53,
+      "truth": "If you could trade places with someone for the day, who would you choose?"
+    },
+    {
+      "id": 54,
+      "truth": "What is one thing you wish you could change about yourself?"
+    },
+    {
+      "id": 55,
+      "truth": "Is there anyone you feel jealous of?"
+    },
+    {
+      "id": 56,
+      "truth": "What was the most difficult time of your life?"
+    },
+    {
+      "id": 57,
+      "truth": "What was the best time of your life?"
+    },
+    {
+      "id": 58,
+      "truth": "Is it ever okay to lie?"
+    },
+    {
+      "id": 59,
+      "truth": "What is more important in a relationship: a physical or emotional connection?"
+    },
+    {
+      "id": 60,
+      "truth": "What's the biggest sacrifice you've made for your partner?"
+    },
+    {
+      "id": 61,
+      "truth": "What is your greatest fear in a relationship?"
+    },
+    {
+      "id": 62,
+      "truth": "When you have a problem do you want me to help you find a solution or just comfort you?"
+    },
+    {
+      "id": 63,
+      "truth": "Is foreplay important for you to feel comfortable during sex?"
+    },
+    {
+      "id": 64,
+      "truth": "How can I make you feel supported when you have a bad day?"
+    },
+    {
+      "id": 65,
+      "truth": "In what way do you mostly easily receive love?"
+    },
+    {
+      "id": 66,
+      "truth": "What is the best advice someone has ever given you?"
+    },
+    {
+      "id": 67,
+      "truth": "Do you have any relationship deal-breakers?"
+    },
+    {
+      "id": 68,
+      "truth": "What do you consider cheating? (porn, onlyfans, flirting)"
+    },
+    {
+      "id": 69,
+      "truth": "If you had to go back to school, what would you study?"
+    },
+    {
+      "id": 70,
+      "truth": "What do you like most about yourself?"
+    },
+    {
+      "id": 71,
+      "truth": "What's one thing I can do to make our relationship better?"
+    },
+    {
+      "id": 72,
+      "truth": "Do you feel like we communicate well?"
+    },
+    {
+      "id": 73,
+      "truth": "Is there any way we can support each other better?"
+    },
+    {
+      "id": 74,
+      "truth": "What is your worst fear?"
+    },
+    {
+      "id": 75,
+      "truth": "How do you know when you're in love?"
+    },
+    {
+      "id": 76,
+      "truth": "What do you fantasize about?"
+    },
+    {
+      "id": 77,
+      "truth": "What inspires you?"
+    },
+    {
+      "id": 78,
+      "truth": "What challenging life experiences have made you stronger?"
+    },
+    {
+      "id": 79,
+      "truth": "When are you happiest?"
+    },
+    {
+      "id": 80,
+      "truth": "What does your perfect relationship look like?"
+    },
+    {
+      "id": 81,
+      "truth": "Do you feel more loved when I compliment you or cuddle you?"
+    },
+    {
+      "id": 82,
+      "truth": "Do you love what you do enough to want to do it for the rest of your life?"
+    },
+    {
+      "id": 83,
+      "truth": "What has been the happiest day of our marriage?"
+    },
+    {
+      "id": 84,
+      "truth": "What is one thing you feel I've really helped you with throughout our relationship?"
+    },
+    {
+      "id": 85,
+      "truth": "Do you feel as though I support you well?"
+    },
+    {
+      "id": 86,
+      "truth": "Is there anything I could do to make you feel more supported?"
+    },
+    {
+      "id": 87,
+      "truth": "What would a perfect day spent together look like/"
+    },
+    {
+      "id": 88,
+      "truth": "Do you feel as though the tough times in our relationship have brought us closer together?"
+    },
+    {
+      "id": 89,
+      "truth": "What are your biggest fears in our relationship?"
+    },
+    {
+      "id": 90,
+      "truth": "What is one thing you think I could work on?"
+    },
+    {
+      "id": 91,
+      "truth": "Is there anything new that you want to try in bed?"
+    },
+    {
+      "id": 92,
+      "truth": "What is one way that I could try to be more understanding?"
+    },
+    {
+      "id": 93,
+      "truth": "Where do you see us in five years from now?"
+    },
+    {
+      "id": 94,
+      "truth": "Are there any things that we don't do together any more that you miss?"
+    },
+    {
+      "id": 95,
+      "truth": "Do you feel as though you have enough intimacy with me?"
+    },
+    {
+      "id": 96,
+      "truth": "Do you feel safe in our connection?"
+    },
+    {
+      "id": 97,
+      "truth": "Is there anything I could do to make you feel more loved?"
+    },
+    {
+      "id": 98,
+      "truth": "Would you rather marry someone who is rich that you can't stand, or that you love but you'll always be poor?"
+    },
+    {
+      "id": 99,
+      "truth": "Would you rather live in the same place for the rest of your life, or have to move to a new country once a month for the next 'years?"
+    },
+    {
+      "id": 100,
+      "truth": "Would you rather be an expert at only 'thing or average at a lot of things?"
+    },
+    {
+      "id": 101,
+      "truth": "Would you rather have 'kids or no kids at all?"
+    },
+    {
+      "id": 102,
+      "truth": "Would you rather time-travel 'years into the future or 'year into the past?"
+    },
+    {
+      "id": 103,
+      "truth": "Would you rather live forever or die tomorrow?"
+    },
+    {
+      "id": 104,
+      "truth": "Would you rather be beautiful and dumb or unattractive and intelligent?"
+    },
+    {
+      "id": 105,
+      "truth": "Would you rather lose your hearing or vision?"
+    },
+    {
+      "id": 106,
+      "truth": "Would you rather be able to speak any language fluently or speak with animals?"
+    },
+    {
+      "id": 107,
+      "truth": "Would you rather live in a big city or the middle of nowhere for the rest of your life?"
+    },
+    {
+      "id": 108,
+      "truth": "Would you rather be the funniest or smartest person in a room?"
+    },
+    {
+      "id": 109,
+      "truth": "Would you rather find your soulmate or your life purpose?"
+    },
+    {
+      "id": 110,
+      "truth": "Would you rather work out every day for the rest of your life or never work out again?"
+    },
+    {
+      "id": 111,
+      "truth": "Would you rather confess to cheating on your partner or catch your partner cheating on you?"
+    },
+    {
+      "id": 112,
+      "truth": "Would you rather be too trusting of everyone or trust no one?"
+    },
+    {
+      "id": 113,
+      "truth": "Would you rather work a job you love and be poor or work a job that you hate and be rich?"
+    },
+    {
+      "id": 114,
+      "truth": "Would you rather lose everything you own in a fire or lose a loved one?"
+    },
+    {
+      "id": 115,
+      "truth": "Would you rather be criticized or ignored?"
+    },
+    {
+      "id": 116,
+      "truth": "Would you rather have your boss or your parents look through the photos on your phone?"
+    },
+    {
+      "id": 117,
+      "truth": "What's your biggest insecurity?"
+    },
+    {
+      "id": 118,
+      "truth": "What's your biggest regret?"
+    },
+    {
+      "id": 119,
+      "truth": "What's one thing you would do if you knew there wouldn't be any consequences?"
+    },
+    {
+      "id": 120,
+      "truth": "When was the last time you got rejected?"
+    },
+    {
+      "id": 121,
+      "truth": "What was the thing that ruined your last relationship?"
+    },
+    {
+      "id": 122,
+      "truth": "What's your worst habit"
+    },
+    {
+      "id": 123,
+      "truth": "Have you ever been caught doing something you shouldn't have been? If so, what was it?"
+    },
+    {
+      "id": 124,
+      "truth": "Do you believe in any superstitions? If yes, which ones?"
+    },
+    {
+      "id": 125,
+      "truth": "What's your most embarrassing childhood memory?"
+    },
+    {
+      "id": 126,
+      "truth": "Have you ever considered cheating on your partner?"
+    },
+    {
+      "id": 127,
+      "truth": "What's something you've done that you still feel guilty about to this day?"
+    },
+    {
+      "id": 128,
+      "truth": "What's the last lie you told?"
+    },
+    {
+      "id": 129,
+      "truth": "What is the biggest misconception people have about you?"
+    },
+    {
+      "id": 130,
+      "truth": "Never have I ever broken a bone"
+    },
+    {
+      "id": 131,
+      "truth": "Never have I ever skipped work or school"
+    },
+    {
+      "id": 132,
+      "truth": "Never have I ever been broken up with by a partner"
+    },
+    {
+      "id": 133,
+      "truth": "Never have I ever gone into overdraft on my bank account"
+    },
+    {
+      "id": 134,
+      "truth": "Never have I ever kissed someone of the same sex"
+    },
+    {
+      "id": 135,
+      "truth": "Never have I ever tried psychedelics"
+    },
+    {
+      "id": 136,
+      "truth": "Never have I ever read through my partner's texts"
+    },
+    {
+      "id": 137,
+      "truth": "Never have I ever been a bride's maid or best man"
+    },
+    {
+      "id": 138,
+      "truth": "Never have I ever been in a fight"
+    },
+    {
+      "id": 139,
+      "truth": "Never have I ever had a one-night-stand"
+    },
+    {
+      "id": 140,
+      "truth": "Never have I ever lied to my best friend"
+    },
+    {
+      "id": 141,
+      "truth": "Never have I ever been fired from a job"
+    },
+    {
+      "id": 142,
+      "truth": "Never have I ever held a grudge for over a year"
+    },
+    {
+      "id": 143,
+      "truth": "Never have I ever given or received a lap dance"
+    },
+    {
+      "id": 144,
+      "truth": "Never have I ever gone on vacation by myself"
+    },
+    {
+      "id": 145,
+      "truth": "Never have I ever stolen something"
+    },
+    {
+      "id": 146,
+      "truth": "Never have I ever fallen in love"
+    },
+    {
+      "id": 147,
+      "truth": "Never have I ever moved to a new city"
+    },
+    {
+      "id": 148,
+      "truth": "Never have I ever been in a car crash"
+    },
+    {
+      "id": 149,
+      "truth": "Movies or books?"
+    },
+    {
+      "id": 150,
+      "truth": "Work hard or play hard?"
+    },
+    {
+      "id": 151,
+      "truth": "Intelligent or funny?"
+    },
+    {
+      "id": 152,
+      "truth": "Money or free time?"
+    },
+    {
+      "id": 153,
+      "truth": "Honesty or white lies?"
+    },
+    {
+      "id": 154,
+      "truth": "Life or death?"
+    },
+    {
+      "id": 155,
+      "truth": "Love or money?"
+    },
+    {
+      "id": 156,
+      "truth": "Sad or mad?"
+    },
+    {
+      "id": 157,
+      "truth": "Rich partner or loyal partner?"
+    },
+    {
+      "id": 158,
+      "truth": "Money or freedom?"
+    },
+    {
+      "id": 159,
+      "truth": "Friends or family?"
+    },
+    {
+      "id": 160,
+      "truth": "Night out or night in?"
+    },
+    {
+      "id": 161,
+      "truth": "Spend or save?"
+    },
+    {
+      "id": 162,
+      "truth": "When you look into the past, what do you miss the most?"
+    },
+    {
+      "id": 163,
+      "truth": "What is the most spontaneous thing you've ever done?"
+    },
+    {
+      "id": 164,
+      "truth": "Do you think that good things come from suffering?"
+    },
+    {
+      "id": 165,
+      "truth": "What are three qualities that you look for in friends?"
+    },
+    {
+      "id": 166,
+      "truth": "Are there any lessons that you had to learn the hard way?"
+    },
+    {
+      "id": 167,
+      "truth": "What is the best part about being you?"
+    },
+    {
+      "id": 168,
+      "truth": "Is there anyone that you really miss right now?"
+    },
+    {
+      "id": 169,
+      "truth": "What was the hardest day of your life?"
+    },
+    {
+      "id": 170,
+      "truth": "When you're having bad days what do you do to cheer yourself up?"
+    },
+    {
+      "id": 171,
+      "truth": "Do you prefer having a lot of good friends, or a few great friends?"
+    },
+    {
+      "id": 172,
+      "truth": "What is the weirdest quality you have?"
+    },
+    {
+      "id": 173,
+      "truth": "Where do you see yourself one year from now?"
+    },
+    {
+      "id": 174,
+      "truth": "What has the fear of failing stopped you from doing?"
+    },
+    {
+      "id": 175,
+      "truth": "On a scale from - how would you rate this last week?"
+    },
+    {
+      "id": 176,
+      "truth": "What is one thing about yourself you're working to improve right now?"
+    },
+    {
+      "id": 177,
+      "truth": "Is there anything that you want more of in your life right now?"
+    },
+    {
+      "id": 178,
+      "truth": "What do you think is your greatest strength?"
+    },
+    {
+      "id": 179,
+      "truth": "What makes you feel safe?"
+    },
+    {
+      "id": 180,
+      "truth": "Do you think it's possible to learn lessons without making mistakes first?"
+    },
+    {
+      "id": 181,
+      "truth": "With that answer in mind, do you think you should change how you treat yourself when you make a mistake?"
+    },
+    {
+      "id": 182,
+      "truth": "What is your favorite memory with me?"
+    },
+    {
+      "id": 183,
+      "truth": "Is there anything I could do to make you feel more supported in our relationship?"
+    },
+    {
+      "id": 184,
+      "truth": "What was an experience where you felt let down by me recently?"
+    },
+    {
+      "id": 185,
+      "truth": "What qualities make a person beautiful?"
+    },
+    {
+      "id": 186,
+      "truth": "Are there any wounds from your childhood that you feel still affect you today?"
+    },
+    {
+      "id": 187,
+      "truth": "Is there anything I can do to help you heal them?"
+    },
+    {
+      "id": 188,
+      "truth": "What is one weakness that I have that you think I could work on?"
+    },
+    {
+      "id": 189,
+      "truth": "What do you admire most about me?"
+    },
+    {
+      "id": 190,
+      "truth": "What do you admire most about yourself?"
+    },
+    {
+      "id": 191,
+      "truth": "What have you read online recently that inspired you?"
+    },
+    {
+      "id": 192,
+      "truth": "If you could live one day of your life on repeat forever, what day would it be?"
+    },
+    {
+      "id": 193,
+      "truth": "If you were to spend a day spoiling yourself, what would you do?"
+    },
+    {
+      "id": 194,
+      "truth": "When you think about 'home', what comes to mind?"
+    },
+    {
+      "id": 195,
+      "truth": "Would you trust me with your life?"
+    },
+    {
+      "id": 196,
+      "truth": "Is there a time in your life when you worked harder than ever before, but loved every minute of it?"
+    },
+    {
+      "id": 197,
+      "truth": "What's your favorite way to show somebody love?"
+    },
+    {
+      "id": 198,
+      "truth": "What is a big step that you need to take, but are afraid to?"
+    },
+    {
+      "id": 199,
+      "truth": "Who is your idol?"
+    },
+    {
+      "id": 200,
+      "truth": "What life lesson have you learned the hard way?"
+    },
+    {
+      "id": 201,
+      "truth": "Is there anyone that you compare yourself to?"
+    },
+    {
+      "id": 202,
+      "truth": "What is your happiest childhood memory?"
+    },
+    {
+      "id": 203,
+      "truth": "What is something that you wish you started working on 'years ago?"
+    },
+    {
+      "id": 204,
+      "truth": "What was the hardest day of your life?"
+    },
+    {
+      "id": 205,
+      "truth": "How old do you feel like you are?"
+    },
+    {
+      "id": 206,
+      "truth": "If you knew you were going to die tomorrow, how would you spend today?"
+    },
+    {
+      "id": 207,
+      "truth": "What do you think is the meaning of life?"
+    },
+    {
+      "id": 208,
+      "truth": "What's one thing you'd be doing right now if you weren't afraid of being judged?"
+    },
+    {
+      "id": 209,
+      "truth": "Do you think there is a difference between living and existing?"
+    },
+    {
+      "id": 210,
+      "truth": "What does your dream life look like?"
+    },
+    {
+      "id": 211,
+      "truth": "If you had a friend that spoke to you the same way you spoke to yourself, would you be friends with them?"
+    },
+    {
+      "id": 212,
+      "truth": "What makes you feel like life is worth living?"
+    },
+    {
+      "id": 213,
+      "truth": "Are you holding onto anything that you need to let go of?"
+    },
+    {
+      "id": 214,
+      "truth": "How good are you at following your heart?"
+    },
+    {
+      "id": 215,
+      "truth": "When you're on your deathbed do you think there's anything in your life that you will regret?"
+    },
+    {
+      "id": 216,
+      "truth": "What is worse, failing or never trying?"
+    },
+    {
+      "id": 217,
+      "truth": "Do you believe in soul mates?"
+    },
+    {
+      "id": 218,
+      "truth": "If yes, do you think that you've met yours yet?"
+    },
+    {
+      "id": 219,
+      "truth": "Do you think it's possible to have a happy marriage?"
+    },
+    {
+      "id": 220,
+      "truth": "How old were you the first time you fell in love?"
+    },
+    {
+      "id": 221,
+      "truth": "Who was the first person to break your heart?"
+    },
+    {
+      "id": 222,
+      "truth": "Are you afraid of love?"
+    },
+    {
+      "id": 223,
+      "truth": "Do you believe in love at first sight?"
+    },
+    {
+      "id": 224,
+      "truth": "Do you want to get married?"
+    },
+    {
+      "id": 225,
+      "truth": "Who are your role models for love?"
+    },
+    {
+      "id": 226,
+      "truth": "Is your heart open or closed?"
+    },
+    {
+      "id": 227,
+      "truth": "Do you think that loving is something you get better at with practice?"
+    },
+    {
+      "id": 228,
+      "truth": "What does love mean to you?"
+    },
+    {
+      "id": 229,
+      "truth": "What about a person makes you fall in love with them?"
+    },
+    {
+      "id": 230,
+      "truth": "Who in your life was it the most difficult to say goodbye to?"
+    },
+    {
+      "id": 231,
+      "truth": "Who do you love and what are you doing about it?"
+    },
+    {
+      "id": 232,
+      "truth": "What makes you feel the most loved by someone?"
+    },
+    {
+      "id": 233,
+      "truth": "Do you think that love has a feeling?"
+    },
+    {
+      "id": 234,
+      "truth": "If so, what does it feel like?"
+    },
+    {
+      "id": 235,
+      "truth": "If you could meet the love of your life tomorrow, would you want to?"
+    },
+    {
+      "id": 236,
+      "truth": "Do you feel like there is always one person who is more in love in a romantic connection?"
+    },
+    {
+      "id": 237,
+      "truth": "Who or what do you think of when you think about love?"
+    },
+    {
+      "id": 238,
+      "truth": "What is the loneliest moment of your life?"
+    },
+    {
+      "id": 239,
+      "truth": "What in your life do you feel the most grateful for?"
+    },
+    {
+      "id": 240,
+      "truth": "What is a life lesson that you learned recently?"
+    },
+    {
+      "id": 241,
+      "truth": "What's something that you can't live without?"
+    },
+    {
+      "id": 242,
+      "truth": "Is it more important to you to love or be loved?"
+    },
+    {
+      "id": 243,
+      "truth": "What is something you would do if you knew you couldn't fail at it?"
+    },
+    {
+      "id": 244,
+      "truth": "Is there anyone close to you that you wish you had a better relationship with?"
+    },
+    {
+      "id": 245,
+      "truth": "What gives your life meaning?"
+    },
+    {
+      "id": 246,
+      "truth": "When was the last time you cried, and why?"
+    },
+    {
+      "id": 247,
+      "truth": "Do you think it's possible to be perfect?"
+    },
+    {
+      "id": 248,
+      "truth": "What is one trait about yourself that you absolutely love?"
+    },
+    {
+      "id": 249,
+      "truth": "What is a limiting belief that comes up when you feel challenged?"
+    },
+    {
+      "id": 250,
+      "truth": "What is a quality that you have that you try not to let others see?"
+    },
+    {
+      "id": 251,
+      "truth": "Do you think it is better to be loved or feared?"
+    },
+    {
+      "id": 252,
+      "truth": "What is the greatest challenge you're facing in your life right now?"
+    },
+    {
+      "id": 253,
+      "truth": "Is there any way I can support you in overcoming that challenge?"
+    },
+    {
+      "id": 254,
+      "truth": "What are three words you would use to describe the last 'months of your life?"
+    },
+    {
+      "id": 255,
+      "truth": "What is one thing that you would tell yourself 'years ago?"
+    },
+    {
+      "id": 256,
+      "truth": "If the goal of working was to be happy, not rich, would you change occupations?"
+    },
+    {
+      "id": 257,
+      "truth": "What's something about your mom that really irritates you?"
+    },
+    {
+      "id": 258,
+      "truth": "If I was an animal, what do you think I would be?"
+    },
+    {
+      "id": 259,
+      "truth": "What's the most embarrassing thing you've done recently?"
+    },
+    {
+      "id": 260,
+      "truth": "If you were invisible for a day, what would you do?"
+    },
+    {
+      "id": 261,
+      "truth": "How do you think you're going to act when you're ?"
+    },
+    {
+      "id": 262,
+      "truth": "Is there something that you think is impossible to look good while doing?"
+    },
+    {
+      "id": 263,
+      "truth": "What song will you be playing for your kids in 'years that will make you seem really old?"
+    },
+    {
+      "id": 264,
+      "truth": "What's the weirdest tinder profile you've ever seen?"
+    },
+    {
+      "id": 265,
+      "truth": "What's something that you always feel embarrassed buying?"
+    },
+    {
+      "id": 266,
+      "truth": "If your life was a movie, what would it be called?"
+    },
+    {
+      "id": 267,
+      "truth": "Would you date the opposite gender version of yourself?"
+    },
+    {
+      "id": 268,
+      "truth": "If your parents got a call to bail you out of jail, what would they think you got arrested for?"
+    },
+    {
+      "id": 269,
+      "truth": "Do you think there is any way that we're actually living in the Matrix?"
+    },
+    {
+      "id": 270,
+      "truth": "If you got kidnapped, what would you do that would be so annoying that it would make your kidnappers return you?"
+    },
+    {
+      "id": 271,
+      "truth": "If you had to lose one body part what would it be?"
+    },
+    {
+      "id": 272,
+      "truth": "What Disney character are you the most similar to?"
+    },
+    {
+      "id": 273,
+      "truth": "On a scale from - how basic do you think you are?"
+    },
+    {
+      "id": 274,
+      "truth": "What's the weirdest place you've ever fallen asleep?"
+    },
+    {
+      "id": 275,
+      "truth": "If you had to wear one outfit for the rest of your life, what would it be?"
+    },
+    {
+      "id": 276,
+      "truth": "What would you change about yourself if you could?"
+    },
+    {
+      "id": 277,
+      "truth": "What motivates you to work hard?"
+    },
+    {
+      "id": 278,
+      "truth": "What form of public transportation do you prefer? (air, boat, train, bus, car, etc.)"
+    },
+    {
+      "id": 279,
+      "truth": "What's the most spontaneous thing you've done lately?"
+    },
+    {
+      "id": 280,
+      "truth": "What two radio stations do you listen to in the car the most?"
+    },
+    {
+      "id": 281,
+      "truth": "If you could hire someone to help you, would it be with cleaning, cooking, or yard work?"
+    },
+    {
+      "id": 282,
+      "truth": "Would you rather vacation in Mexico or Alaska, and why?"
+    },
+    {
+      "id": 283,
+      "truth": "What is your favorite thing about your career?"
+    },
+    {
+      "id": 284,
+      "truth": "If you could live anywhere, where would it be?"
+    },
+    {
+      "id": 285,
+      "truth": "Who is your hero?"
+    },
+    {
+      "id": 286,
+      "truth": "What is your family member's proudest accomplishment?"
+    },
+    {
+      "id": 287,
+      "truth": "What is your favorite book to read?"
+    },
+    {
+      "id": 288,
+      "truth": "What are your hobbies?"
+    },
+    {
+      "id": 289,
+      "truth": "What is your biggest fear?"
+    },
+    {
+      "id": 290,
+      "truth": "If you could choose to do anything for a day, what would it be?"
+    },
+    {
+      "id": 291,
+      "truth": "What is the best gift you have been given?"
+    },
+    {
+      "id": 292,
+      "truth": "What really makes you angry?"
+    },
+    {
+      "id": 293,
+      "truth": "If you could choose to do anything for a day, what would it be?"
+    },
+    {
+      "id": 294,
+      "truth": "Would you rather win the lottery or work at the perfect job? And why?"
+    },
+    {
+      "id": 295,
+      "truth": "Have you ever had a nickname? What is it?"
+    },
+    {
+      "id": 296,
+      "truth": "What would you do if you won the lottery?"
+    },
+    {
+      "id": 297,
+      "truth": "Do you like or dislike surprises? Why or why not?"
+    },
+    {
+      "id": 298,
+      "truth": "Would you rather ride a bike, ride a horse, or drive a car?"
+    },
+    {
+      "id": 299,
+      "truth": "In the evening, would you rather play a game, visit a relative, watch a movie, or read?"
+    },
+    {
+      "id": 300,
+      "truth": "What is your favorite game or sport to watch and play?"
+    },
+    {
+      "id": 301,
+      "truth": "If you could only eat one meal for the rest of your life, what would it be?"
+    },
+    {
+      "id": 302,
+      "truth": "Who is your favorite author?"
+    },
+    {
+      "id": 303,
+      "truth": "What is your favorite family vacation?"
+    },
+    {
+      "id": 304,
+      "truth": "What is your biggest complaint about your job?"
+    },
+    {
+      "id": 305,
+      "truth": "Which would you rather do: wash dishes, mow the lawn, clean the bathroom, or vacuum the house?"
+    },
+    {
+      "id": 306,
+      "truth": "What is your proudest accomplishment?"
+    },
+    {
+      "id": 307,
+      "truth": "Would you rather win the lottery or work at the perfect job? And why?"
+    },
+    {
+      "id": 308,
+      "truth": "What's your favorite zoo animal?"
+    },
+    {
+      "id": 309,
+      "truth": "What makes you laugh the most?"
+    },
+    {
+      "id": 310,
+      "truth": "Who would you want to be stranded with on a deserted island?"
+    },
+    {
+      "id": 311,
+      "truth": "If you could go back in time to change one thing, what would it be?"
+    },
+    {
+      "id": 312,
+      "truth": "If you could share a meal with any 'individuals, living or dead, who would they be?"
+    },
+    {
+      "id": 313,
+      "truth": "How many pillows do you sleep with?"
+    },
+    {
+      "id": 314,
+      "truth": "What's the longest you've gone without sleep (and why)?"
+    },
+    {
+      "id": 315,
+      "truth": "What's the tallest building you've been to the top in?"
+    },
+    {
+      "id": 316,
+      "truth": "What was the last movie you went to? What did you think?"
+    },
+    {
+      "id": 317,
+      "truth": "What did you want to be when you were small?"
+    },
+    {
+      "id": 318,
+      "truth": "Where do you see yourself in five years?"
+    },
+    {
+      "id": 319,
+      "truth": "'If you were a superhero, what powers would you have?"
+    },
+    {
+      "id": 320,
+      "truth": "If money was no object, what would you do all day?"
+    },
+    {
+      "id": 321,
+      "truth": "If you could go back in time, what year would you travel to?"
+    },
+    {
+      "id": 322,
+      "truth": "List two pet peevesAside from necessities, what one thing could you not go a day without?"
+    },
+    {
+      "id": 323,
+      "truth": "How would your friends describe you?"
+    },
+    {
+      "id": 324,
+      "truth": "What would you sing at Karaoke night?"
+    },
+    {
+      "id": 325,
+      "truth": "What is the worst gift you have received?"
+    },
+    {
+      "id": 326,
+      "truth": "Do you consider yourself an introvert or an extrovert?"
+    },
+    {
+      "id": 327,
+      "truth": "What are you most thankful for?"
+    },
+    {
+      "id": 328,
+      "truth": "Which parent are you closer to and why?"
+    },
+    {
+      "id": 329,
+      "truth": "What are your thoughts on online dating or tinder?"
+    },
+    {
+      "id": 330,
+      "truth": "What's on your bucket list this year?"
+    },
+    {
+      "id": 331,
+      "truth": "How would you describe your best friend?"
+    },
+    {
+      "id": 332,
+      "truth": "What do you think of best friends of the opposite sex?"
+    },
+    {
+      "id": 333,
+      "truth": "What makes you feel accomplished?"
+    },
+    {
+      "id": 334,
+      "truth": "How do you feel about sharing your password with your partner?"
+    },
+    {
+      "id": 335,
+      "truth": "What was the best phase in your life?"
+    },
+    {
+      "id": 336,
+      "truth": "Would you still love your spouse if they were diagnosed with a terminal disease?"
+    },
+    {
+      "id": 337,
+      "truth": "What qualities do you admire about your parents?"
+    },
+    {
+      "id": 338,
+      "truth": "What are some of your favorite songs?"
+    },
+    {
+      "id": 339,
+      "truth": "What was the worst phase in your life?"
+    },
+    {
+      "id": 340,
+      "truth": "What is the craziest thing you've ever done and would you do it again?"
+    },
+    {
+      "id": 341,
+      "truth": "If a genie granted you 'wishes right now, what would you wish for?"
+    },
+    {
+      "id": 342,
+      "truth": "Does your job make you happy?"
+    },
+    {
+      "id": 343,
+      "truth": "What's the one thing you would like to change about yourself?"
+    },
+    {
+      "id": 344,
+      "truth": "Would you ever take back someone who cheated?"
+    },
+    {
+      "id": 345,
+      "truth": "What is a relationship deal breaker for you?"
+    },
+    {
+      "id": 346,
+      "truth": "Are you more into looks or brains?"
+    },
+    {
+      "id": 347,
+      "truth": "When do you think a person is ready for marriage?"
+    },
+    {
+      "id": 348,
+      "truth": "Is what you're doing now what you always wanted to do growing up?"
+    },
+    {
+      "id": 349,
+      "truth": "Have you ever lost someone close to you?"
+    },
+    {
+      "id": 350,
+      "truth": "If you are in a bad mood, do you prefer to be left alone or have someone to cheer you up?"
+    },
+    {
+      "id": 351,
+      "truth": "What's the one thing that people always misunderstand about you?"
+    },
+    {
+      "id": 352,
+      "truth": "What is your idea of a perfect vacation?"
+    },
+    {
+      "id": 353,
+      "truth": "When was the last time you broke someone's heart?"
+    },
+    {
+      "id": 354,
+      "truth": "Would you relocate for love?"
+    },
+    {
+      "id": 355,
+      "truth": "What did you want to be when you were younger?"
+    },
+    {
+      "id": 356,
+      "truth": "What kind of parent do you think you will be?"
+    },
+    {
+      "id": 357,
+      "truth": "Do you judge a book by its cover?"
+    },
+    {
+      "id": 358,
+      "truth": "What's your biggest regret in life?"
+    },
+    {
+      "id": 359,
+      "truth": "Who is that one person you can talk to about just anything?"
+    },
+    {
+      "id": 360,
+      "truth": "What's an ideal weekend for you?"
+    },
+    {
+      "id": 361,
+      "truth": "Are you religious or spiritual?"
+    },
+    {
+      "id": 362,
+      "truth": "Would you take on your significant other's religion if they had one?"
+    },
+    {
+      "id": 363,
+      "truth": "Do you believe in second chances?"
+    },
+    {
+      "id": 364,
+      "truth": "What's been your biggest mistake so far in life and what did you learn from it?"
+    },
+    {
+      "id": 365,
+      "truth": "Where is your favorite place in the entire world to go? "
+    },
+    {
+      "id": 366,
+      "truth": "What did your past relationship teach you?"
+    },
+    {
+      "id": 367,
+      "truth": "What's your philosophy in life?"
+    },
+    {
+      "id": 368,
+      "truth": "What are your top five favorite movies?"
+    },
+    {
+      "id": 369,
+      "truth": "What would you do if your parents didn't like your partner?"
+    },
+    {
+      "id": 370,
+      "truth": "Are you religious or spiritual?"
+    },
+    {
+      "id": 371,
+      "truth": "What's your favorite book/movie of all time and why did it speak to you so much?"
+    },
+    {
+      "id": 372,
+      "truth": "When have you felt your biggest adrenaline rush?"
+    },
+    {
+      "id": 373,
+      "truth": "Why did your last relationship end?"
+    },
+    {
+      "id": 374,
+      "truth": "Are you confrontational?"
+    },
+    {
+      "id": 375,
+      "truth": "Do you usually stay friends with your exes?"
+    },
+    {
+      "id": 376,
+      "truth": "What's your 'and then it got worse' story?"
+    },
+    {
+      "id": 377,
+      "truth": "What's the best piece of advice someone has given you?"
+    },
+    {
+      "id": 378,
+      "truth": "What's something you learned recently that you really should have already known?"
+    },
+    {
+      "id": 379,
+      "truth": "What was something you ate regularly as a child but now cringe at the thought of eating?"
+    },
+    {
+      "id": 380,
+      "truth": "If you were an action figure, what accessories would you be sold with?"
+    },
+    {
+      "id": 381,
+      "truth": "What's the craziest thing you've ever done for love?"
+    },
+    {
+      "id": 382,
+      "truth": "Do you prefer being warmed when you're too cold or being cooled when you're too hot?"
+    },
+    {
+      "id": 383,
+      "truth": "What snack can you just not get enough of?"
+    },
+    {
+      "id": 384,
+      "truth": "Is flirting cheating?"
+    },
+    {
+      "id": 385,
+      "truth": "If you were given $, to give the most amount of happiness to the most amount of people, what would you do?"
+    },
+    {
+      "id": 386,
+      "truth": "What piece of culture or trend has died out, but you would like to see it make a comeback?"
+    },
+    {
+      "id": 387,
+      "truth": "What do you most look forward to about getting old?"
+    },
+    {
+      "id": 388,
+      "truth": "What kinds of things are normal now but will be highly valued antiques a century later?"
+    },
+    {
+      "id": 389,
+      "truth": "What's the best practical joke you've pulled or seen pulled?"
+    },
+    {
+      "id": 390,
+      "truth": "What weird smell do you really enjoy?"
+    },
+    {
+      "id": 391,
+      "truth": "If you inherited a private jet from a stranger, what would you do with it?"
+    },
+    {
+      "id": 392,
+      "truth": "What do you wish you could re-live in your lifetime?"
+    },
+    {
+      "id": 393,
+      "truth": "What's an innocent mistake you made that had dramatic consequences?"
+    },
+    {
+      "id": 394,
+      "truth": "Have you ever trusted your boyfriend to buy clothes for you?"
+    },
+    {
+      "id": 395,
+      "truth": "What's something weird that you recommend everyone trying at least once?"
+    },
+    {
+      "id": 396,
+      "truth": "What country can you name but besides the name you know almost nothing else about it?"
+    },
+    {
+      "id": 397,
+      "truth": "What are you most grateful for?"
+    },
+    {
+      "id": 398,
+      "truth": "What would be the worst thing to put into a pi'ata?"
+    },
+    {
+      "id": 399,
+      "truth": "Would you go through a boyfriend's phone if you could?"
+    },
+    {
+      "id": 400,
+      "truth": "What's something horrible that we as humans have accepted, because that's just how things are; but actually things don't have to be that way at all?"
+    },
+    {
+      "id": 401,
+      "truth": "If you could hear every time someone said something good about you or something negative about you, which would you choose?"
+    },
+    {
+      "id": 402,
+      "truth": "What do you think people automatically assume about you when they look at you?"
+    },
+    {
+      "id": 403,
+      "truth": "Looking back on your life, what have you done that has given you the most satisfaction?"
+    },
+    {
+      "id": 404,
+      "truth": "What's the best gag gift you've ever seen or gotten?"
+    },
+    {
+      "id": 405,
+      "truth": "When was the last time you laughed so hard you cried?"
+    },
+    {
+      "id": 406,
+      "truth": "What would you do if your parents didn't like your partner?"
+    },
+    {
+      "id": 407,
+      "truth": "If you were forced to create a new dance move, what would it be and what would you call it?"
+    },
+    {
+      "id": 408,
+      "truth": "What's your story?"
+    },
+    {
+      "id": 409,
+      "truth": "What do you wish you had more time for?"
+    },
+    {
+      "id": 410,
+      "truth": "What do you like to do that is traditionally considered masculine?"
+    },
+    {
+      "id": 411,
+      "truth": "If everything was quantified, what life stats would like to see for yourself?"
+    },
+    {
+      "id": 412,
+      "truth": "What do you really wish you knew when you were younger?"
+    },
+    {
+      "id": 413,
+      "truth": "What options would come up if you could 'right-click' people?"
+    },
+    {
+      "id": 414,
+      "truth": "What is your ideal meal?"
+    },
+    {
+      "id": 415,
+      "truth": "What songs can you sing that I'll know after hearing two words from the song?"
+    },
+    {
+      "id": 416,
+      "truth": "If you were given $,, but it could only be used to upgrade your shower or bathtub what upgrades would you make?"
+    },
+    {
+      "id": 417,
+      "truth": "When was the last time you had a gut feeling about something that turned out to be correct? How about a time your gut feeling was wrong?"
+    },
+    {
+      "id": 418,
+      "truth": "How decisive or indecisive are you?"
+    },
+    {
+      "id": 419,
+      "truth": "What's the biggest lie that a guy has told you?"
+    },
+    {
+      "id": 420,
+      "truth": "What would you do if one day you woke up and every person was just gone without a trace?"
+    },
+    {
+      "id": 421,
+      "truth": "What body feature do you pay the most attention to?"
+    },
+    {
+      "id": 422,
+      "truth": "Who do you make happy"
+    },
+    {
+      "id": 423,
+      "truth": "What's the most unpleasant sounding word?"
+    },
+    {
+      "id": 424,
+      "truth": "If you could dedicate your life to solving one problem, what problem would you choose?"
+    },
+    {
+      "id": 425,
+      "truth": "What was the worst phase you went through in life?"
+    },
+    {
+      "id": 426,
+      "truth": "What's the spiciest thing you've eaten? Would you ever eat it again?"
+    },
+    {
+      "id": 427,
+      "truth": "What unnecessary products or services do you consider necessary?"
+    },
+    {
+      "id": 428,
+      "truth": "Which fictional villain made you feel real hatred towards them?"
+    },
+    {
+      "id": 429,
+      "truth": "What habit do you have that you think not many other people have?"
+    },
+    {
+      "id": 430,
+      "truth": "How often is your brain on autopilot?"
+    },
+    {
+      "id": 431,
+      "truth": "What's the grossest thing you've drunk?"
+    },
+    {
+      "id": 432,
+      "truth": "If colors had a taste, what would each color taste like?"
+    },
+    {
+      "id": 433,
+      "truth": "What names were ruined for you because you knew someone terrible with that name?"
+    },
+    {
+      "id": 434,
+      "truth": "What's the best conspiracy theory you can make up on the spot?"
+    },
+    {
+      "id": 435,
+      "truth": "How often do you feel utterly worn down?"
+    },
+    {
+      "id": 436,
+      "truth": "What gross and unhygienic things do people do that bothers you?"
+    },
+    {
+      "id": 437,
+      "truth": "What was the best thing about how your parents raised you?"
+    },
+    {
+      "id": 438,
+      "truth": "Where is the craziest place you have danced?"
+    },
+    {
+      "id": 439,
+      "truth": "If when you died, you got put into a room for eternity with people who died the same way, how would you want to die?"
+    },
+    {
+      "id": 440,
+      "truth": "What would an amusement park filled with your biggest fears be like? What rides would it have?"
+    },
+    {
+      "id": 441,
+      "truth": "If jobs/careers had slogans what would be some of their slogans?"
+    },
+    {
+      "id": 442,
+      "truth": "What do people really need to chill out about?"
+    },
+    {
+      "id": 443,
+      "truth": "What are the two biggest lessons you've learned from previous relationships?"
+    },
+    {
+      "id": 444,
+      "truth": "Why do you think we dream?"
+    },
+    {
+      "id": 445,
+      "truth": "If you could switch genders for a length of time of your choosing, would you? And if so, how long?"
+    },
+    {
+      "id": 446,
+      "truth": "What inedible thing do you wish you could eat?"
+    },
+    {
+      "id": 447,
+      "truth": "Which hairstyles fit with which personalities?"
+    },
+    {
+      "id": 448,
+      "truth": "If you could choose the next president of the United States, who would it be?"
+    },
+    {
+      "id": 449,
+      "truth": "What's the most stress relieving thing you can get/do for less than $?"
+    },
+    {
+      "id": 450,
+      "truth": "What's something you wish you had never learned how it was made or how it works?"
+    },
+    {
+      "id": 451,
+      "truth": "What do most people overestimate or underestimate about you?"
+    },
+    {
+      "id": 452,
+      "truth": "What silly thing do you take a lot of pride in?"
+    },
+    {
+      "id": 453,
+      "truth": "What crazy things will you do if you ever become rich?"
+    },
+    {
+      "id": 454,
+      "truth": "If you were forced into a dance competition, what song would you choose to dance to?"
+    },
+    {
+      "id": 455,
+      "truth": "You have unlimited wishes but every time you make a wish what you love most is erased from the worldHow many wishes do you make and what do you wish for? (No, you can't wish not to have things erased from the world.)"
+    },
+    {
+      "id": 456,
+      "truth": "How would the world change if health potions existed?"
+    },
+    {
+      "id": 457,
+      "truth": "How do you feel about God?"
+    },
+    {
+      "id": 458,
+      "truth": "What scrambles your brain every time you think about it?"
+    },
+    {
+      "id": 459,
+      "truth": "What's the weirdest wrong number text or phone call you've gotten?"
+    },
+    {
+      "id": 460,
+      "truth": "What would be the absolute perfect day?"
+    },
+    {
+      "id": 461,
+      "truth": "What's a lame joke you use on a regular basis?"
+    },
+    {
+      "id": 462,
+      "truth": "If you could change your first name, what would be the most epic name you could choose?"
+    },
+    {
+      "id": 463,
+      "truth": "What do you think aliens would actually look/be like?"
+    },
+    {
+      "id": 464,
+      "truth": "Should toilet paper hang over or under?"
+    },
+    {
+      "id": 465,
+      "truth": "How often do you go into a room and forget why you went into the room?"
+    },
+    {
+      "id": 466,
+      "truth": "What is the strongest animal you could win against with just your bare hands and feet?"
+    },
+    {
+      "id": 467,
+      "truth": "What event from the past do you most want to see a recording of?"
+    },
+    {
+      "id": 468,
+      "truth": "What would an amusement park designed specifically to make you happy, be like?"
+    },
+    {
+      "id": 469,
+      "truth": "What is something you probably should do, but will never do?"
+    },
+    {
+      "id": 470,
+      "truth": "What great idea would you like to try if you had enough money?"
+    },
+    {
+      "id": 471,
+      "truth": "If you were in a high-speed chase, what song would you want blaring on the radio?"
+    },
+    {
+      "id": 472,
+      "truth": "If you had to choose country music or rap, which would you choose?"
+    },
+    {
+      "id": 473,
+      "truth": "If you could only eat pizza or tacos, which would you choose?"
+    },
+    {
+      "id": 474,
+      "truth": "If you were given immortality, but there was one condition, what would stop you from accepting immortality?"
+    },
+    {
+      "id": 475,
+      "truth": "Do you like or dislike surprises? Why or why not?"
+    },
+    {
+      "id": 476,
+      "truth": "What's on your bucket list this year?"
+    },
+    {
+      "id": 477,
+      "truth": "What kind of parent do you think you will be?"
+    },
+    {
+      "id": 478,
+      "truth": "How do you feel about sharing your password with your partner?"
+    },
+    {
+      "id": 479,
+      "truth": "What is the craziest thing you've ever done and would you do it again?"
+    },
+    {
+      "id": 480,
+      "truth": "If a genie granted you 'wishes right now, what would you wish for?"
+    },
+    {
+      "id": 481,
+      "truth": "What's your biggest regret in life?"
+    },
+    {
+      "id": 482,
+      "truth": "What jobs exist because people are selfish?"
+    },
+    {
+      "id": 483,
+      "truth": "What do you think about when you're by yourself?"
+    },
+    {
+      "id": 484,
+      "truth": "What is one dream you have yet to accomplish?"
+    },
+    {
+      "id": 485,
+      "truth": "Do you judge a book by its cover?"
+    },
+    {
+      "id": 486,
+      "truth": "What's the one thing that people always misunderstand about you?"
+    },
+    {
+      "id": 487,
+      "truth": "Are you confrontational?"
+    },
+    {
+      "id": 488,
+      "truth": "If you could change one thing about yourself what would it be?"
+    },
+    {
+      "id": 489,
+      "truth": "What makes you feel accomplished?"
+    },
+    {
+      "id": 490,
+      "truth": "When was the last time you broke someone's heart?"
+    },
+    {
+      "id": 491,
+      "truth": "What is your greatest fear?"
+    },
+    {
+      "id": 492,
+      "truth": "Who was your favorite teacher and why?"
+    },
+    {
+      "id": 493,
+      "truth": "What was the worst phase in your life?"
+    },
+    {
+      "id": 494,
+      "truth": "Would you relocate for love?"
+    },
+    {
+      "id": 495,
+      "truth": "What's your philosophy in life?"
+    },
+    {
+      "id": 496,
+      "truth": "When do you think a person is ready for marriage?"
+    },
+    {
+      "id": 497,
+      "truth": "What accomplishment are you most proud of?"
+    },
+    {
+      "id": 498,
+      "truth": "What's your favorite hobby to do alone?"
+    },
+    {
+      "id": 499,
+      "truth": "Did you ever write a journal?"
+    },
+    {
+      "id": 500,
+      "truth": "Is what you're doing now what you always wanted to do growing up?"
+    },
+    {
+      "id": 501,
+      "truth": "What did your past relationship teach you?"
+    },
+    {
+      "id": 502,
+      "truth": "What are your thoughts on online dating or tinder?"
+    },
+    {
+      "id": 503,
+      "truth": "Which parent are you closer to and why?"
+    },
+    {
+      "id": 504,
+      "truth": "What was the best phase in your life?"
+    },
+    {
+      "id": 505,
+      "truth": "What are three things you value most about a person?"
+    },
+    {
+      "id": 506,
+      "truth": "Who are five people you are closest with?"
+    },
+    {
+      "id": 507,
+      "truth": "Do you believe in second chances?"
+    },
+    {
+      "id": 508,
+      "truth": "Who is that one person you can talk to about just anything?"
+    },
+    {
+      "id": 509,
+      "truth": "Have you ever lost someone close to you?"
+    },
+    {
+      "id": 510,
+      "truth": "If you are in a bad mood, do you prefer to be left alone or have someone to cheer you up?"
+    },
+    {
+      "id": 511,
+      "truth": "What's the most exciting thing that's happened this past year?"
+    },
+    {
+      "id": 512,
+      "truth": "When have you felt your biggest adrenaline rush?"
+    },
+    {
+      "id": 513,
+      "truth": "What is your idea of a perfect vacation?"
+    },
+    {
+      "id": 514,
+      "truth": "What's one thing that bothers you most about the world today?"
+    },
+    {
+      "id": 515,
+      "truth": "Are you religious or spiritual?"
+    },
+    {
+      "id": 516,
+      "truth": "Would you ever take back someone who cheated?"
+    },
+    {
+      "id": 517,
+      "truth": "What is the greatest struggle you've overcome?"
+    },
+    {
+      "id": 518,
+      "truth": "Do you consider yourself an introvert or an extrovert?"
+    },
+    {
+      "id": 519,
+      "truth": "What's your favorite book/movie of all time and why did it speak to you so much?"
+    },
+    {
+      "id": 520,
+      "truth": "Are you more into looks or brains?"
+    },
+    {
+      "id": 521,
+      "truth": "What's the one thing you would like to change about yourself?"
+    },
+    {
+      "id": 522,
+      "truth": "What would you do if you found out you were adopted?"
+    },
+    {
+      "id": 523,
+      "truth": "What if you found out that you were the star of the Truman Show?"
+    },
+    {
+      "id": 524,
+      "truth": "What is a relationship deal breaker for you?"
+    },
+    {
+      "id": 525,
+      "truth": "What are you most thankful for?"
+    },
+    {
+      "id": 526,
+      "truth": "What's your philosophy in life?"
+    },
+    {
+      "id": 527,
+      "truth": "What's the one thing you would like to change about yourself?"
+    },
+    {
+      "id": 528,
+      "truth": "Are you religious or spiritual?"
+    },
+    {
+      "id": 529,
+      "truth": "Do you consider yourself an introvert or an extrovert?"
+    },
+    {
+      "id": 530,
+      "truth": "Which parent are you closer to and why?"
+    },
+    {
+      "id": 531,
+      "truth": "What was the best phase in your life?"
+    },
+    {
+      "id": 532,
+      "truth": "What was the worst phase in your life?"
+    },
+    {
+      "id": 533,
+      "truth": "Is what you're doing now what you always wanted to do growing up?"
+    },
+    {
+      "id": 534,
+      "truth": "What makes you feel accomplished?"
+    },
+    {
+      "id": 535,
+      "truth": "What's your favorite book/movie of all time and why did it speak to you so much?"
+    },
+    {
+      "id": 536,
+      "truth": "What is a relationship deal breaker for you?"
+    },
+    {
+      "id": 537,
+      "truth": "Are you more into looks or brains?"
+    },
+    {
+      "id": 538,
+      "truth": "Would you ever take back someone who cheated?"
+    },
+    {
+      "id": 539,
+      "truth": "How do you feel about sharing your password with your partner?"
+    },
+    {
+      "id": 540,
+      "truth": "When do you think a person is ready for marriage?"
+    },
+    {
+      "id": 541,
+      "truth": "What kind of parent do you think you will be?"
+    },
+    {
+      "id": 542,
+      "truth": "What would you do if your parents didn't like your partner?"
+    },
+    {
+      "id": 543,
+      "truth": "Who is that one person you can talk to about just anything?"
+    },
+    {
+      "id": 544,
+      "truth": "Do you usually stay friends with your exes?"
+    },
+    {
+      "id": 545,
+      "truth": "Have you ever lost someone close to you?"
+    },
+    {
+      "id": 546,
+      "truth": "If you are in a bad mood, do you prefer to be left alone or have someone to cheer you up?"
+    },
+    {
+      "id": 547,
+      "truth": "What's an ideal weekend for you?"
+    },
+    {
+      "id": 548,
+      "truth": "What do you think of best friends of the opposite sex?"
+    },
+    {
+      "id": 549,
+      "truth": "Do you judge a book by its cover?"
+    },
+    {
+      "id": 550,
+      "truth": "Are you confrontational?"
+    },
+    {
+      "id": 551,
+      "truth": "When was the last time you broke someone's heart?"
+    },
+    {
+      "id": 552,
+      "truth": "Would you relocate for love?"
+    },
+    {
+      "id": 553,
+      "truth": "Did you ever write a journal?"
+    },
+    {
+      "id": 554,
+      "truth": "What are you most thankful for?"
+    },
+    {
+      "id": 555,
+      "truth": "Do you believe in second chances?"
+    },
+    {
+      "id": 556,
+      "truth": "What's the one thing that people always misunderstand about you?"
+    },
+    {
+      "id": 557,
+      "truth": "What is your idea of a perfect vacation?"
+    },
+    {
+      "id": 558,
+      "truth": "What did your past relationship teach you?"
+    },
+    {
+      "id": 559,
+      "truth": "What are your thoughts on online dating or tinder?"
+    },
+    {
+      "id": 560,
+      "truth": "What's on your bucket list this year?"
+    },
+    {
+      "id": 561,
+      "truth": "When have you felt your biggest adrenaline rush?"
+    },
+    {
+      "id": 562,
+      "truth": "What is the craziest thing you've ever done and would you do it again?"
+    },
+    {
+      "id": 563,
+      "truth": "If a genie granted you 'wishes right now, what would you wish for?"
+    },
+    {
+      "id": 564,
+      "truth": "What's your biggest regret in life?"
+    },
+    {
+      "id": 565,
+      "truth": "What do you think about when you're by yourself?"
+    },
+    {
+      "id": 566,
+      "truth": "Does your job make you happy?"
+    },
+    {
+      "id": 567,
+      "truth": "What did you want to be when you were younger?"
+    },
+    {
+      "id": 568,
+      "truth": "Why did your last relationship end?"
+    },
+    {
+      "id": 569,
+      "truth": "What's been your biggest mistake so far in life and what did you learn from it?"
+    },
+    {
+      "id": 570,
+      "truth": "Where is your favorite place in the entire world to go?"
+    },
+    {
+      "id": 571,
+      "truth": "What are your top five favorite movies?"
+    },
+    {
+      "id": 572,
+      "truth": "What are some of your favorite songs?"
+    },
+    {
+      "id": 573,
+      "truth": "What qualities do you admire about your parents?"
+    },
+    {
+      "id": 574,
+      "truth": "How would you describe your best friend?"
+    },
+    {
+      "id": 575,
+      "truth": "What's your favorite hobby to do alone?"
+    },
+    {
+      "id": 576,
+      "truth": "What's something you can't go a day without doing?"
+    },
+    {
+      "id": 577,
+      "truth": "What's the most spontaneous thing you've done lately?"
+    },
+    {
+      "id": 578,
+      "truth": "What's the craziest thing you've ever done for love?"
+    },
+    {
+      "id": 579,
+      "truth": "What's your biggest pet peeve?"
+    },
+    {
+      "id": 580,
+      "truth": "Why do you think you're still single?"
+    },
+    {
+      "id": 581,
+      "truth": "What accomplishment are you most proud of?"
+    },
+    {
+      "id": 582,
+      "truth": "What is one dream you have yet to accomplish?"
+    },
+    {
+      "id": 583,
+      "truth": "What is your greatest fear?"
+    },
+    {
+      "id": 584,
+      "truth": "What are three things you value most about a person?"
+    },
+    {
+      "id": 585,
+      "truth": "Who are five people you are closest with?"
+    },
+    {
+      "id": 586,
+      "truth": "What is the greatest struggle you've overcome?"
+    },
+    {
+      "id": 587,
+      "truth": "If you could live anywhere in the world where would it be?"
+    },
+    {
+      "id": 588,
+      "truth": "What's the most exciting thing that's happened this past year?"
+    },
+    {
+      "id": 589,
+      "truth": "What's your favorite beer?"
+    },
+    {
+      "id": 590,
+      "truth": "What's one thing that bothers you most about the world today?"
+    },
+    {
+      "id": 591,
+      "truth": "Who are you closer with your mom or your dad?"
+    },
+    {
+      "id": 592,
+      "truth": "If you could change one thing about yourself what would it be?"
+    },
+    {
+      "id": 593,
+      "truth": "If you could change one thing about the world what would it be?"
+    },
+    {
+      "id": 594,
+      "truth": "Who was your favorite teacher and why?"
+    },
+    {
+      "id": 595,
+      "truth": "What sport did you fall in love with?"
+    },
+    {
+      "id": 596,
+      "truth": "What is the weirdest thing about you?"
+    },
+    {
+      "id": 597,
+      "truth": "What was your longest relationship?"
+    },
+    {
+      "id": 598,
+      "truth": "What would your best friend say is your best quality?"
+    },
+    {
+      "id": 599,
+      "truth": "Who is your favorite historical figure?"
+    },
+    {
+      "id": 600,
+      "truth": "What made you choose the college you went to?"
+    },
+    {
+      "id": 601,
+      "truth": "If you could tell your former self one thing right now what would it be?"
+    },
+    {
+      "id": 602,
+      "truth": "What food could you not live without?"
+    },
+    {
+      "id": 603,
+      "truth": "Dogs or Cats?"
+    },
+    {
+      "id": 604,
+      "truth": "What's closest you've ever come to being arrested?"
+    },
+    {
+      "id": 605,
+      "truth": "What was your best birthday?"
+    },
+    {
+      "id": 606,
+      "truth": "What's one thing you wish you knew how to do?"
+    },
+    {
+      "id": 607,
+      "truth": "Where's one place you'd like to go that you haven't been?"
+    },
+    {
+      "id": 608,
+      "truth": "What was the last book you read? And When?"
+    },
+    {
+      "id": 609,
+      "truth": "Where do you usually get your news?"
+    },
+    {
+      "id": 610,
+      "truth": "What are some of your own personal goals in the next 'years?"
+    },
+    {
+      "id": 611,
+      "truth": "What would you consider your greatest accomplishment so far?"
+    },
+    {
+      "id": 612,
+      "truth": "If you could get away with anything that you do?"
+    },
+    {
+      "id": 613,
+      "truth": "Who is your greatest hero?"
+    },
+    {
+      "id": 614,
+      "truth": "What's the greatest risk you've ever taken?"
+    },
+    {
+      "id": 615,
+      "truth": "Why are we here?"
+    },
+    {
+      "id": 616,
+      "truth": "If heaven is real and you died tomorrow, would you get in?"
+    },
+    {
+      "id": 617,
+      "truth": "Do you believe in fate?"
+    },
+    {
+      "id": 618,
+      "truth": "How do you think people see you?"
+    },
+    {
+      "id": 619,
+      "truth": "If you had the ability to erase something that you did in the past, what would you erase?"
+    },
+    {
+      "id": 620,
+      "truth": "What is the strangest dream you've ever had?"
+    },
+    {
+      "id": 621,
+      "truth": "What is the darkest thought you've ever had? What about the darkest thing you've never told anybody?"
+    },
+    {
+      "id": 622,
+      "truth": "Is there something out there, a thought, an idea, a current event, or a fear that you find deeply unsettling?"
+    },
+    {
+      "id": 623,
+      "truth": "What would you consider to be your deepest fear? (This question can be really telling of the depth or lack thereof of a person.)"
+    },
+    {
+      "id": 624,
+      "truth": "Is there an activity that calms you? A place or a thing that makes you feel at ease?"
+    },
+    {
+      "id": 625,
+      "truth": "What makes you feel uneasy? Overwhelmed? Anxious?"
+    },
+    {
+      "id": 626,
+      "truth": "What is your favorite song and why?"
+    },
+    {
+      "id": 627,
+      "truth": "Do you have a favorite book? A line in a piece of literature? A poem? Why do you relate to it?"
+    },
+    {
+      "id": 628,
+      "truth": "What scene in a movie has evoked the most feelings out of you?"
+    },
+    {
+      "id": 629,
+      "truth": "What do you do or where do you go when you need to be alone?"
+    },
+    {
+      "id": 630,
+      "truth": "What makes you feel like you need to be alone?"
+    },
+    {
+      "id": 631,
+      "truth": "Can you remember a time in your life you felt the most alive? Tell me everything about that memory."
+    },
+    {
+      "id": 632,
+      "truth": "When have you felt the lowest in your life?"
+    },
+    {
+      "id": 633,
+      "truth": "Where have you felt the most failure? The most success?"
+    },
+    {
+      "id": 634,
+      "truth": "Tell me about the facts or harsh truths you choose to ignore but know you shouldn't."
+    },
+    {
+      "id": 635,
+      "truth": "When have you felt like you were living life to the fullest? When have you felt like you weren't?"
+    },
+    {
+      "id": 636,
+      "truth": "What is the first lie you ever told? Which is the biggest?"
+    },
+    {
+      "id": 637,
+      "truth": "What is the first secret you ever kept from anybody? Which is the biggest?"
+    },
+    {
+      "id": 638,
+      "truth": "Are you a religious or spiritual person? Tell me why and tell me how."
+    },
+    {
+      "id": 639,
+      "truth": "Have you always had the same political beliefs? Is there something that impacted them?"
+    },
+    {
+      "id": 640,
+      "truth": "Where do you find meaning in your life?"
+    },
+    {
+      "id": 641,
+      "truth": "Have you ever been in love? Tell me about the times you have been."
+    },
+    {
+      "id": 642,
+      "truth": "Tell me about the times someone broke your heart."
+    },
+    {
+      "id": 643,
+      "truth": "Why did you cry the last time you did so?"
+    },
+    {
+      "id": 644,
+      "truth": "Have you ever cried tears of joy?"
+    },
+    {
+      "id": 645,
+      "truth": "What did you do when you hurt someone the most?"
+    },
+    {
+      "id": 646,
+      "truth": "If your life was a movie or a book what would be the title to it?"
+    },
+    {
+      "id": 647,
+      "truth": "When have you caused the most harm to yourself?"
+    },
+    {
+      "id": 648,
+      "truth": "What has been the biggest change you ever made that made you the most proud of yourself?"
+    },
+    {
+      "id": 649,
+      "truth": "Think about the people you love the most in your life, what do you do for them?"
+    },
+    {
+      "id": 650,
+      "truth": "Is home for you a place or a feeling? Describe that place or describe that feeling."
+    },
+    {
+      "id": 651,
+      "truth": "If you could be anywhere other than where you are right now, where would you be and what would you be looking at?"
+    },
+    {
+      "id": 652,
+      "truth": "Have you ever questioned your sanity and why?"
+    },
+    {
+      "id": 653,
+      "truth": "What is your most cherished childhood memory?"
+    },
+    {
+      "id": 654,
+      "truth": "Have you ever had dreams about a past life?"
+    },
+    {
+      "id": 655,
+      "truth": "Do you have any recurring dreams or nightmares?"
+    },
+    {
+      "id": 656,
+      "truth": "Do you believe more in fate or that we are the creators of our own destinies because we are governed by free will?"
+    },
+    {
+      "id": 657,
+      "truth": "Do you believe in extraterrestrial life? Elaborate on why or why not."
+    },
+    {
+      "id": 658,
+      "truth": "Would you find more comfort in the theoretical idea that that we were the most advanced species in outer space or would you find more comfort in the idea that we weren't?"
+    },
+    {
+      "id": 659,
+      "truth": "But like, why?"
+    }
+   ]
